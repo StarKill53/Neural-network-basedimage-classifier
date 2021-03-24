@@ -2,14 +2,14 @@
 Paolo Messina 18037634 
 
 
-Requirements
+#Requirements
 
-python 3.x
+-python 3.x
 
-pytorch >= 0.4
+-pytorch >= 0.4
 
-numpy
+-numpy
 
-torchvision
+-torchvision
 
-matplotlib
+-matplotlib
